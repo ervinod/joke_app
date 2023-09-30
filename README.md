@@ -8,7 +8,9 @@ This project is a part of assignment, which demonstrate the use Clean Architectu
 
 # Video Preview(iOS):
 
-<video src='[https://github.com/ervinod/joke_app/blob/main/screenshots/walkthrough.mp4]' width=180/>
+<video src='https://github.com/ervinod/joke_app/blob/main/screenshots/walkthrough.mp4' width=180/>
+<video src='https://github.com/ervinod/joke_app/assets/25130073/1084fb68-9926-42c8-9c0a-2dd0096a1a11' width=180/>
 
-https://github.com/ervinod/joke_app/assets/25130073/1084fb68-9926-42c8-9c0a-2dd0096a1a11
+
+
 
